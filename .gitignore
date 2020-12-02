@@ -1,0 +1,35 @@
+/.settings/  
+/target/  
+  
+# built application files  
+*.apk  
+*.ap_  
+  
+# files for the dex VM  
+*.dex  
+  
+# Java class files  
+*.class  
+  
+# generated files  
+bin/  
+gen/  
+  
+# Eclipse project files  
+.classpath  
+.project  
+.DS_Store  
+.idea
+*.iml
+out
+
+.DS_Store
+
+# office
+*.xlsx
+*.xls
+*.docx
+*.doc
+
+# pretrain
+glove-840B-300d.txt
